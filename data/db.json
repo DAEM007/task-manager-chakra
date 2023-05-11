@@ -69,6 +69,20 @@
        "description":"We need to add more products to the online store. We also need to add categories and filters to make it easier for users to find what they are looking for.",
        "author":"Yoshi",
        "img": "/img/yoshi.png"
+    },
+    {
+       "id":11,
+       "title":"Add more products to the Book store",
+       "description":"We need to add more products to the Book store. We also need to add categories and filters to make it easier for users to find what they are looking for.",
+       "author":"Peter",
+       "img": "/img/yoshi.png"
+    },
+    {
+       "id":12,
+       "title":"Add more products to the Fashion store",
+       "description":"We need to add more products to the Fashion store. We also need to add categories and filters to make it easier for users to find what they are looking for.",
+       "author":"Richard",
+       "img": "/img/yoshi.png"
     }
  ]
 }
